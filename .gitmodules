@@ -61,3 +61,7 @@
 	path = apps/blink-pwm-silabs
 	url = https://github.com/proactivity-lab-study/blink-PWM-silabs.git
 	branch = updates
+[submodule "apps/adc-ldma-read-silabs"]
+	path = apps/adc-ldma-read-silabs
+	url = https://github.com/proactivity-lab-study/adc-ldma-read-silabs.git
+	branch = updates
